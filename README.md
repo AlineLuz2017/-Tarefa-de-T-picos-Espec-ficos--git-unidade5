@@ -50,3 +50,8 @@ Resposta Recuperada pelo Sistema:
 
 "O "detox digital" ou pausas programadas longe de smartphones e computadores são práticas essenciais para recuperar o foco, reduzir a exaustão cognitiva e promover o bem-estar emocional."
 
+##  Demonstração em Vídeo
+
+* **Status:** Vídeo de demonstração gravado via utilitário do Windows e enviado diretamente pelo AVA (Ambiente Virtual de Aprendizagem).
+
+> *Nota sobre o áudio:* Como o microfone do notebook apresentou falhas/defeito durante a gravação pelo Windows, a demonstração foi complementada com anotações e explicações textuais na tela para detalhar o funcionamento do código.
